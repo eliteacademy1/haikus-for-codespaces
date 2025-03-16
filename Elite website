@@ -1,0 +1,98 @@
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="مركز النخبة للأبحاث والدراسات العلمية - تقديم أبحاث ودراسات مبتكرة.">
+    <title>مركز النخبة للأبحاث والدراسات العلمية</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>مركز النخبة</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">الصفحة الرئيسية</a></li>
+                    <li><a href="blog.html">المدونة</a></li>
+                    <li><a href="services.html">خدماتنا</a></li>
+                    <li><a href="about.html">عن المركز</a></li>
+                    <li><a href="other.html">أخرى</a></li>
+                    <li><a href="contact.html">تواصل بنا</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <img src="images/hero-image.jpg" alt="صورة تعبيرية للمركز">
+            <h2>مرحبًا بكم في مركز النخبة</h2>
+            <p>نحن نقدم أفضل الأبحاث والدراسات العلمية.</p>
+        </section>
+
+        <section class="about">
+            <h2>من نحن</h2>
+            <p>نحن متخصصون في تقديم أبحاث علمية مبتكرة ودراسات متقدمة في مختلف المجالات.</p>
+        </section>
+
+        <section class="social-media">
+            <h2>تابعونا على وسائل التواصل الاجتماعي</h2>
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-linkedin"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 مركز النخبة للأبحاث والدراسات العلمية</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
+
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="المدونة - مقالات وأبحاث مركز النخبة للأبحاث والدراسات العلمية.">
+    <title>المدونة</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>مركز النخبة</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">الصفحة الرئيسية</a></li>
+                    <li><a href="blog.html">المدونة</a></li>
+                    <li><a href="services.html">خدماتنا</a></li>
+                    <li><a href="about.html">عن المركز</a></li>
+                    <li><a href="other.html">أخرى</a></li>
+                    <li><a href="contact.html">تواصل بنا</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <h2>المدونة</h2>
+            <article>
+                <h3>عنوان المقال 1</h3>
+                <p>محتوى المقال 1...</p>
+            </article>
+            <article>
+                <h3>عنوان المقال 2</h3>
+                <p>محتوى المقال 2...</p>
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 مركز النخبة للأبحاث والدراسات العلمية</p>
+    </footer>
+</body>
+</html>
