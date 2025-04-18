@@ -351,11 +351,11 @@
       تابعنا على وسائل التواصل الاجتماعي
      </p>
      <div class="flex justify-center space-x-6 space-x-reverse text-indigo-700 text-2xl">
-      <a aria-label="فيسبوك" class="hover:text-indigo-900 transition" href="https://www.facebook.com" rel="noopener" target="_blank">
+      <a aria-label="فيسبوك" class="hover:text-indigo-900 transition" href="https://www.facebook.com/share/15Nnb7KyZk/" rel="noopener" target="_blank">
        <i class="fab fa-facebook-square">
        </i>
       </a>
-      <a aria-label="تويتر" class="hover:text-indigo-900 transition" href="https://www.twitter.com" rel="noopener" target="_blank">
+      <a aria-label="تويتر" class="hover:text-indigo-900 transition" href="https://x.com/hle_tc?t=kztiygU4gyyr0ygB_Pis3g&s=09" rel="noopener" target="_blank">
        <i class="fab fa-twitter-square">
        </i>
       </a>
@@ -363,7 +363,7 @@
        <i class="fab fa-linkedin">
        </i>
       </a>
-      <a aria-label="إنستغرام" class="hover:text-indigo-900 transition" href="https://www.instagram.com" rel="noopener" target="_blank">
+      <a aria-label="إنستغرام" class="hover:text-indigo-900 transition" href="https://www.instagram.com/elite_center10" rel="noopener" target="_blank">
        <i class="fab fa-instagram-square">
        </i>
       </a>
@@ -373,13 +373,13 @@
       </a>
      </div>
      <p class="text-gray-600 mt-4">
-      العنوان: شارع البحث العلمي، المدينة، الدولة
+      العنوان: شارع الملك عبدالعزيز، الرياض، المملكة العربية السعودية 
      </p>
      <p class="text-gray-600">
-      الهاتف: +123 456 7890
+       الهاتف : +966535015492 
      </p>
      <p class="text-gray-600">
-      البريد الإلكتروني: info@elite-research-center.com
+      البريد الإلكتروني: info@eliteacademy1996@hotmail.com
      </p>
     </div>
    </section>
